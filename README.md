@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **CodeIgniter Projects**  
 - 🌱 I’m learning **Advanced Python + AI**  
 - 💬 Ask me about **PHP, MySQL, Python, DataTables**  
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **biswojeetpatra909.com**
 
 ---
 
