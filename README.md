@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Biswojeet Patra</h1>
-<h3 align="center">A passionate Full-Stack Developer | PHP & CodeIgniter Specialist | Python Flask Framework</h3>
+<h1 align="center">Hi 👋, I'm <strong>Biswojeet Patra</strong></h1>
+<h3 align="center">Full-Stack Developer | PHP & CodeIgniter Specialist | Python Flask Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisu-git" alt="bisu-git" /></a> </p>
+---
 
-- 🔭 I’m currently working on INSPIRISYS [5c Report Management System](https://172.31.36.200/5c_reports/View_5c_report)
+### 👨‍💻 About Me
+- 🔭 Currently working at **INSPIRISYS** on the *5C Report Management System*  
+- 🌱 Learning **Python Flask Framework & API Development**  
+- 🤝 Open to collaborating on **Zyler ERP & Full-Stack Projects**  
+- 🗄️ Exploring deeper into **MySQL Optimization**  
+- 💬 Ask me about: **PHP, Python, Node.js, CodeIgniter, API Development**  
+- 📫 Reach me at: **biswojeetpatra909@gmail.com**
 
-- 🌱 I’m currently learning **Python Flask Web Frameworks**
+---
 
-- 👯 I’m looking to collaborate on **Zyler ERP Project**
-
-- 🤝 I’m looking for help with **MySQL**
-
-- 💬 Ask me about **PHP, Python , Node JS**
-
-- 📫 How to reach me **biswojeetpatra909@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
 <p align="left">
+<a href="mailto:biswojeetpatra909@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+</a>
+<a href="https://github.com/bisu-git" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisu-git&show_icons=true&locale=en&layout=compact" alt="bisu-git" /></p>
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/php.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/linux.png" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisu-git&layout=compact&theme=tokyonight" alt="bisu-git"/>
+</p>
+
+---
+
+### 🚀 Quote I Follow
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
